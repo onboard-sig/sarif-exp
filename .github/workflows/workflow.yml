@@ -20,4 +20,4 @@ jobs:
       - name: Upload SARIF file
         uses: github/codeql-action/upload-sarif@v2
         with:
-          sarif_file: s_i_g.json
+          sarif_file: s_r_g_minimal_exp.json
